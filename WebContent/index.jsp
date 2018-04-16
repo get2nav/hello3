@@ -22,8 +22,8 @@
 <%
 	out.println("Hello!");
 	out.println(obj.getData());
-	out.println("Deploy test my naveen");
 %>
 </h4>
+<h1> Test deploy by Naveen</h1>
 </body>
 </html>
